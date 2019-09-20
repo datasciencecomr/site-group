@@ -1,0 +1,49 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Data Science, R etc"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+googleAnalytics = ""
+enableEmoji = true
+publishDir = "docs"
+disqusShortname = "datasciencecomr"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+  logo = "images/logo.png"
+  description ="Posts"
+  #mailchimp = "you can provide a mailchimp-link here"
+  highlight = true
+  highlightStyle = "monokai"
+  highlightLanguages = ["r", "python", "java", "prolog"]
+
+[params.author]
+  name = "Data Science & R"
+  thumbnail = "images/author.png"
+  description = "Admin."
+
+[params.index]
+  picture = "images/telegram-logo.png"
+  title = "Data Science & R"
+  subtitle = "Grupo de Telegram"
+  mdtext = '''
+Você pode saber mais sobre o grupo acessando a guia [**sobre**](static/about).\
+Acessar alguns posts na guia [**blog**](blog).\
+'''
+  alertbar = false
+
+[params.social]
+  github = "datasciencecomr"
+  telegram = "datasciencecomr"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "Sobre"
+    identifier = "about"
+    weight = 200
+    url = "/static/about"

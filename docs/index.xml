@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science, R etc</title>
+    <link>/</link>
+    <description>Recent content on Data Science, R etc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Sep 2019 11:21:28 -0300</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como Fazer Uma Pergunta?</title>
+      <link>/blog/2019-09-20-como-fazer-uma-pergunta/</link>
+      <pubDate>Fri, 20 Sep 2019 11:21:28 -0300</pubDate>
+      
+      <guid>/blog/2019-09-20-como-fazer-uma-pergunta/</guid>
+      <description>Quando eu estava começando a ingressar no mundo das linguagens de programação, eu tinha muita dúvida, eu não sabia nem como procurar, as vezes ficava a me perguntar &amp;ldquo;como eu sei que estou expert em tal assunto?</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>/about/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Data Science &amp;amp; R - (Telegram) Com o enorme crescimento da área de Data Science, e a existência de poucos grupos de R no telegram no Brasil, criamos o grupo @datasciencecomR, e esperamos uma boa troca de conhecimentos e experiência a cerca dessa linguagem e dessa área fascinante que é data science.</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>/static/about/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/static/about/</guid>
+      <description>Data Science &amp;amp; R - (Telegram) Com o enorme crescimento da área de Data Science, e a existência de poucos grupos de R no telegram no Brasil, criamos o grupo @datasciencecomR, e esperamos uma boa troca de conhecimentos e experiência a cerca dessa linguagem e dessa área fascinante que é data science.</description>
+    </item>
+    
+    <item>
+      <title>Grupo do Telegram</title>
+      <link>/blog/grupo-do-telegram/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/grupo-do-telegram/</guid>
+      <description>Olá pessoa que visitou essa página escondida, tem um grupo muito legal de R e Data Science no Telegram, é o Data Science &amp;amp; R, esse grupo foi criado com o objetivo de ser um grupo inclusivo, não importa seu nível de conhecimento em ciência de dados ou em R.</description>
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>/static/imprint/</link>
+      <pubDate>Sun, 07 Oct 2018 11:12:00 +0200</pubDate>
+      
+      <guid>/static/imprint/</guid>
+      <description>Imprint Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
+    </item>
+    
+  </channel>
+</rss>
