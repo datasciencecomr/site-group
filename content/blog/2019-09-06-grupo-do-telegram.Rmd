@@ -13,7 +13,7 @@ tags:
   - Data Science
 ---
 
-Olá pessoa que visitou essa página escondida, tem um grupo muito legal de R e Data Science no Telegram, é o [Data Science & R](http://t.me/datasciencecomR), esse grupo foi criado com o objetivo de ser um grupo inclusivo, não importa seu nível de conhecimento em **ciência de dados** ou em **R**. Esse grupo foi criado para que todos possamos aprender juntos, esperamos muito aprender com você também.
+Olá pessoa que visitou essa página escondida, tem um grupo muito legal de R e Data Science no Telegram, é o [Data Science & R](http://t.me/datascienceandR), esse grupo foi criado com o objetivo de ser um grupo inclusivo, não importa seu nível de conhecimento em **ciência de dados** ou em **R**. Esse grupo foi criado para que todos possamos aprender juntos, esperamos muito aprender com você também.
 
 Sabe mais onde você pode buscar alguma ajuda ou compartilhar seu conhecimento de R? Aliás, você pode compartilhar sua pergunta que servirá para ajudar alguém no futuro com a mesma dúvida, esse lugar é o [StackOverflow-PT](https://pt.stackoverflow.com/unanswered/tagged/r). Hoje (08/09/2019) há quase duas mil perguntas sob a tag R, dê uma olhada e veja se consegue auxiliar alguma pessoa no StackOverflow.
 

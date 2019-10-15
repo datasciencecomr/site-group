@@ -3,87 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/</loc>
+    <loc>https://datasciencecomr.netlify.com/categories/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datasciencecomr.netlify.com/tags/data-science/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datasciencecomr.netlify.com/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datasciencecomr.netlify.com/tags/r/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datasciencecomr.netlify.com/categories/r/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datasciencecomr.netlify.com/about/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datasciencecomr.netlify.com/static/about/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datasciencecomr.netlify.com/static/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datasciencecomr.netlify.com/tags/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datasciencecomr.netlify.com/tags/telegram/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datasciencecomr.netlify.com/blog/</loc>
     <lastmod>2019-09-20T11:21:28-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2019-09-20-como-fazer-uma-pergunta/</loc>
+    <loc>https://datasciencecomr.netlify.com/blog/2019-09-20-como-fazer-uma-pergunta/</loc>
     <lastmod>2019-09-20T11:21:28-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://datasciencecomr.netlify.com/tags/exemplos/</loc>
     <lastmod>2019-09-20T11:21:28-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/exemplos/</loc>
+    <loc>https://datasciencecomr.netlify.com/tags/perguntas/</loc>
     <lastmod>2019-09-20T11:21:28-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/perguntas/</loc>
+    <loc>https://datasciencecomr.netlify.com/tags/stackoverflow/</loc>
     <lastmod>2019-09-20T11:21:28-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/stackoverflow/</loc>
-    <lastmod>2019-09-20T11:21:28-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-09-20T11:21:28-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/data-science/</loc>
-    <lastmod>2019-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2019-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2019-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2019-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/static/about/</loc>
-    <lastmod>2019-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/static/</loc>
-    <lastmod>2019-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/telegram/</loc>
-    <lastmod>2019-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/grupo-do-telegram/</loc>
+    <loc>https://datasciencecomr.netlify.com/blog/grupo-do-telegram/</loc>
     <lastmod>2019-09-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/static/imprint/</loc>
+    <loc>https://datasciencecomr.netlify.com/static/imprint/</loc>
     <lastmod>2018-10-07T11:12:00+02:00</lastmod>
   </url>
   

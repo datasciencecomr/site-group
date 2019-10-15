@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statics on Data Science, R etc</title>
-    <link>/static/</link>
+    <link>https://datasciencecomr.netlify.com/static/</link>
     <description>Recent content in Statics on Data Science, R etc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/static/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://datasciencecomr.netlify.com/static/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sobre</title>
-      <link>/static/about/</link>
-      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <link>https://datasciencecomr.netlify.com/static/about/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/static/about/</guid>
+      <guid>https://datasciencecomr.netlify.com/static/about/</guid>
       <description>Data Science &amp;amp; R - (Telegram) Com o enorme crescimento da área de Data Science, e a existência de poucos grupos de R no telegram no Brasil, criamos o grupo @datasciencecomR, e esperamos uma boa troca de conhecimentos e experiência a cerca dessa linguagem e dessa área fascinante que é data science.</description>
     </item>
     
     <item>
       <title>Imprint</title>
-      <link>/static/imprint/</link>
+      <link>https://datasciencecomr.netlify.com/static/imprint/</link>
       <pubDate>Sun, 07 Oct 2018 11:12:00 +0200</pubDate>
       
-      <guid>/static/imprint/</guid>
+      <guid>https://datasciencecomr.netlify.com/static/imprint/</guid>
       <description>Imprint Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
