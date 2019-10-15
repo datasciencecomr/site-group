@@ -19,9 +19,9 @@ img <- readPNG("../../static/images/telegram-logo.png")
 ```
 </center>
 
-## [Data Science & R - (Telegram)](http://t.me/datasciencecomR)
+## [Data Science & R - (Telegram)](http://t.me/datascienceandR)
 
-Com o enorme crescimento da área de Data Science, e a existência de poucos grupos de R no telegram no Brasil, criamos o grupo [\@datasciencecomR](http://t.me/datasciencecomR), e esperamos uma boa troca de conhecimentos e experiência a cerca dessa linguagem e dessa área fascinante que é data science. Links de materiais de apoio, compartilhamento de projetos open-sources e gratuitos são bem-vindos no grupo. O nome **R** no nome apenas indica que a maior parte do conteúdo e debates do grupo geralmente são sobre **R**, mas **data science** não é limitada apenas a uma linguagem/framework/paradigma, então assuntos relacionados ao tema de **data science** também podem ser debatidos no grupo.
+Com o enorme crescimento da área de Data Science, e a existência de poucos grupos de R no telegram no Brasil, criamos o grupo [\@datascienceandR](http://t.me/datascienceandR), e esperamos uma boa troca de conhecimentos e experiência a cerca dessa linguagem e dessa área fascinante que é data science. Links de materiais de apoio, compartilhamento de projetos open-sources e gratuitos são bem-vindos no grupo. O nome **R** no nome apenas indica que a maior parte do conteúdo e debates do grupo geralmente são sobre **R**, mas **data science** não é limitada apenas a uma linguagem/framework/paradigma, então assuntos relacionados ao tema de **data science** também podem ser debatidos no grupo.
 
 Para fazer parte do grupo, é necessário o cumprimento de algumas regras de boa convivência, esperamos um ambiente amistoso, inclusivo e livre de intimidação, onde todas as pessoas são bem-vindas e a civilidade é exigida. Com esse intuito, listamos algumas regras, elas foram inspiradas no código de conduta do [Python Brasil](https://github.com/pythonbrasil/codigo-de-conduta).
 
@@ -52,4 +52,4 @@ Para fazer parte do grupo, é necessário o cumprimento de algumas regras de boa
 
 Adicione/convide seus amigos/conhecidos, o link do grupo pode ser acessado abaixo:
 
-Link: [t.me/DataSciencecomR](http://t.me/datasciencecomR)
+Link: [t.me/datascienceandR](http://t.me/datascienceandR)
